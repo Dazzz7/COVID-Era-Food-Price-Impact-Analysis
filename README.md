@@ -1,4 +1,4 @@
-#covid_food_price_analytics_etl
+# covid_food_price_analytics_etl
 
 The COVID-Era Food Price Impact Analysis project investigates how the pandemic influenced global food prices, using over 1 million records sourced from open datasets. The goal was to process, clean, and analyze these large datasets to uncover price trends, supply chain fluctuations, and inflation indicators that emerged during the crisis. This end-to-end project includes data ingestion via Azure, transformation using Python, and visualization through Looker, providing actionable insights to support policy makers and crisis planners in better understanding the economic impact of COVID-19.
 ### Tools & Technologies Category Tools
